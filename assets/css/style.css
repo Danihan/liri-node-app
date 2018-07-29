@@ -1,0 +1,79 @@
+
+body {
+  background-image: url("../img/trainbg.png");
+  font-family: 'Karla', sans-serif;
+}
+
+p {
+  margin: 10px;
+  font-weight: bold;
+  color: red;
+  font-size: 20px;
+}
+
+h3, h4 {
+  margin: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#inputForm {
+	height: 40px;
+	margin-bottom: 30px;	
+}
+#inputField {
+    width: 250px;
+    height: 100%;
+    margin-bottom: 25px;
+    margin-right: -10px;
+    border: 2px solid darkolivegreen;
+    position: relative;
+    top: -1px;
+}
+
+#submitButton {
+    margin-bottom: 30px;
+    font-weight: bolder;
+    font-size: 125%;;
+    padding: 0 30px;
+    height: 100%;
+    border: none;
+    background-color: darkolivegreen;
+    color: white;
+    border-radius: 0;
+}
+
+.miniHeader {
+  margin: 70px 0px 20px 0px;
+  font-weight: bolder;
+  font-size: 125%;;
+  padding: 0 30px;
+  height: 100%;
+  border: none;
+  background-color: darkslategray;
+  color: white;
+  border-radius: 0;
+}
+
+#newTrain {
+  margin-bottom: 30px;
+  font-weight: bolder;
+  font-size: 125%;;
+  padding: 0 30px;
+  height: 100%;
+  border: none;
+  background-color: darkolivegreen;
+  color: white;
+  border-radius: 0;
+}
+
+.allButtons {
+	margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 12px 24px;
+    border: none;
+    background-color: darkolivegreen;
+    color: white;
+    border-radius: 0;
+}
